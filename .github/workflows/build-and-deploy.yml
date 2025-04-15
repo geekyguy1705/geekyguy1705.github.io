@@ -39,12 +39,8 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Install, build, and upload your site
-        uses: withastro/action@v3
-        with:
-          path: .
-          node-version: latest
-          package-manager: pnpm@10.8.1
+      - name: Run Astro Build
+        run: pnpm astro build
   
   deploy:
     needs: build
