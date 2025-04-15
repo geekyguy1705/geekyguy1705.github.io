@@ -1,7 +1,7 @@
 ---
 title: Getting Started with DevOps
 published: 2025-04-15
-description: "How to use this blog template."
+description: "How to get started with DevOps."
 image: "./cover.webp"
 tags: ["DevOps", "Beginner", "Technology"]
 category: Getting Started
