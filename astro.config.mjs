@@ -24,6 +24,7 @@ export default defineConfig({
 	site: "https://cloud-stuff-with-abhishek.github.io/",
 	base: "/",
 	trailingSlash: "always",
+	output: "static",
 	integrations: [
 		tailwind({
 			nesting: true,
