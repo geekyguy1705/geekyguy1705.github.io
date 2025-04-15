@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://cloud-stuff-with-abhishek.github.io/sitemap-index.xml
