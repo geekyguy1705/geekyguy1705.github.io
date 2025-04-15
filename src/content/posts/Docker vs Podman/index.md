@@ -4,7 +4,7 @@ published: 2025-04-15
 description: "Comparing Docker and Podman in 2025."
 image: ""
 tags: ["Containers", "Docker", "Podman"]
-category: "Containerization Technologies"
+category: Containerization Technologies
 draft: false
 ---
 
