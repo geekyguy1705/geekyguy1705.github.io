@@ -5,6 +5,7 @@ on:
     branches: [ main ] # Adjust branches as needed
   pull_request:
     branches: [ main ] # Adjust branches as needed
+  workflow_dispatch:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -23,7 +24,7 @@ jobs:
     steps:
       
       - name: Setup Node.js
-        uses: actions/setup-node@cdca7365b2dadb8aad0a33bc7601856ffabcc48e # v4.3.0
+        uses: actions/setup-node@v4 # v4.3.0
         with:
           node-version: latest
 
@@ -38,13 +39,12 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Run Astro Build
-        run: pnpm astro build
+      - name: Install, build, and upload your site
+        uses: withastro/action@v3
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist/_astro  
+      # - name: Run Astro Build
+      #   run: pnpm astro build
+
       
   deploy:
     needs: build
