@@ -3,7 +3,7 @@ title: Getting Started with DevOps
 published: 2022-09-05
 description: "How to get started with DevOps."
 image: "./cover.webp"
-tags: ["DevOps", "Beginner", "Cloud", "CI/CD", "DevOps Engineer"]
+tags: ["DevOps", "Beginner", "Cloud", "CICD", "DevOps Engineer"]
 category: Getting Started
 draft: false
 ---
