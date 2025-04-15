@@ -119,5 +119,5 @@ DevOps has taken center stage in the software development field, and it is evolv
 
 So many developers, test engineers, and people from other industries want to learn DevOps because of the importance it has received over recent years. Well, DevOps is a great career; you have made a good choice of choosing it as your career path, and I hope that this article has the fundamentals you require to start your DevOps Journey.
 
-Thanks for visiting and stay tuned for the next one. Until then, keep learning and stay safe.
+Thanks for visiting and stay tuned for the next one. Until then, keep learning and stay secure!
 
