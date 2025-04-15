@@ -33,6 +33,7 @@ jobs:
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
+          version: 10.8.1 # same as package.json
           run_install: false # Disable auto-install
 
       - name: Install dependencies
