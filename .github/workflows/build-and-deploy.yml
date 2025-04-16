@@ -40,7 +40,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Install dependencies
-        run: pnpm build --outdir dist # Optional, if your output directory is named differently
+        run: pnpm build # Optional, if your output directory is named differently
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
