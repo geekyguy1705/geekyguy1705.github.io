@@ -26,6 +26,13 @@ export default defineConfig({
 	trailingSlash: "always",
 	output: "static",
 	integrations: [
+		mdx(),
+		partytown({
+			config: {
+				forward: ["dataLayer.push"],
+			},
+		}),
+
 		tailwind({
 			nesting: true,
 		}),
