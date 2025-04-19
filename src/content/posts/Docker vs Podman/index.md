@@ -1,8 +1,8 @@
 ---
-title: "Podman vs Docker 2025: The Evolution of Container Orchestration"
+title: "Docker vs Podman 2025: The Evolution of Container Orchestration"
 published: 2025-04-15
 description: "Comparing Docker and Podman in 2025."
-image: ""
+image: "cover.png"
 tags: ["Containers", "Docker", "Podman"]
 category: Containerization Technologies
 draft: false
