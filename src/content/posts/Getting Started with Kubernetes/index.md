@@ -4,7 +4,7 @@ published: 2025-04-19
 description: "Introduction to Kubernetes for beginners."
 image: "cover.png"
 tags: ["Beginner", "DevOps", "Kubernetes", "Cloud"]
-category: Containerization Technologies
+category: Getting Started
 draft: false
 ---
 
