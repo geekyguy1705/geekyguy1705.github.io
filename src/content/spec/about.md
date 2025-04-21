@@ -15,6 +15,7 @@ Welcome to my corner of the internet. I’m a curious mind passionate about **De
 ## 👨‍💻 What I Do
 
 I'm currently working as a **Senior Cloud Engineer** with a focus on:
+
 - 🚀 Kubernetes & container orchestration
 - ☁️ Azure Cloud infrastructure
 - 🔄 CI/CD pipelines & GitOps
@@ -44,7 +45,7 @@ When I’m not diving into cloud tech, you’ll find me:
 ## 📫 Let’s Connect!
 
 I’m always open to new ideas, collaborations, and meaningful conversations.  
-Feel free to connect via [LinkedIn](https://linkedin.com/in/your-profile) or drop a message on [GitHub](https://github.com/your-username).
+Feel free to connect via [LinkedIn](http://inkedin.com/in/abhishek-laha) or drop a message on [GitHub](https://github.com/geekyguy1705).
 
 ---
 
