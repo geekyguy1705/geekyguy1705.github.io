@@ -1,5 +1,5 @@
 ---
-title: "Ingress Controller Essentials: Routing, Annotations and Best Practices"
+title: "Kubernetes Ingress Essentials: Setup, Routing, Annotations and Best Practices"
 published: 2025-05-01
 description: "A detailed guide to Kubernetes Ingress Controllers and Configurations along with Annotations and Best Practices."
 image: "cover.png"
