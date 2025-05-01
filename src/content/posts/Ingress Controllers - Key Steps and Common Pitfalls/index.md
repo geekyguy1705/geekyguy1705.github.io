@@ -299,7 +299,7 @@ Don’t forget to:
 
 ---
 
-### Wrapping Up
+## Wrapping Up
 
 Ingress Controllers are essential for managing external traffic to Kubernetes applications. While the basic setup is straightforward, leveraging advanced annotations gives you fine-grained control over routing, security, and performance.
 
