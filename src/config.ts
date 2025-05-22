@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Cloud Stuff with Abhishek",
+	title: "Abhishek's Blog",
 	subtitle: "Abhishek's Blog and Portfolio",
 	lang: "en", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
 	themeColor: {
