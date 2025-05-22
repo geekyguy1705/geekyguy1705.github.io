@@ -83,3 +83,5 @@ Google’s I/O 2025 developer announcements mark a shift toward open, accessible
 > — Google AI Team
 
 From agentic assistants to creative media apps and immersive XR experiences, Google has put the tools of tomorrow’s software in developers’ hands today.
+
+Thanks for visiting and stay tuned for the next one. Until then, keep learning and stay secure!
