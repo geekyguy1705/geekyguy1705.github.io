@@ -1,5 +1,5 @@
 ---
-title: "Google I/O 2025: New Tools, APIs, and Everything Devs Need to Know"
+title: "Google I/O 2025: New Tools, APIs and Everything Devs Need to Know"
 published: 2025-05-22
 description: "Developer centric highlights of Google I/O 2025."
 image: "cover.png"
@@ -32,7 +32,7 @@ Gemini SDKs are also adopting the Model Context Protocol (MCP), simplifying inte
 
 ---
 
-# Jules Coding Agent: Automating Codebase Tasks\
+# Jules Coding Agent: Automating Codebase Tasks
 
 Jules, Google’s new asynchronous coding agent, is now in public beta. Designed to work directly with GitHub repositories, Jules can automate tasks such as version upgrades, writing tests, updating features, and fixing bugs. It operates autonomously on a cloud VM, makes coordinated codebase edits, runs tests, and allows developers to review and merge changes via pull requests. This tool aims to dramatically speed up development cycles and reduce manual coding overhead.
 
@@ -83,6 +83,3 @@ Google’s I/O 2025 developer announcements mark a shift toward open, accessible
 > — Google AI Team
 
 From agentic assistants to creative media apps and immersive XR experiences, Google has put the tools of tomorrow’s software in developers’ hands today.
-
-
-
